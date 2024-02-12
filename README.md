@@ -1,3 +1,3 @@
 # assets
 
-Hosting assets for other repositories.
+Asset dump for other repositories.
